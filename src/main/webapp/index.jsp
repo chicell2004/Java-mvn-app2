@@ -10,7 +10,7 @@
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello Everyone, Welcome to CHISOM Java-Mvn-app</h2>
-      <p class="text-center"> My Web App. GITHUB Webhook Demo! - DevOps-Admin</p>
+      <p class="text-center"> My Web App. GITHUB Webhook Demo Configured! - DevOps-Admin</p>
       <p class="text-center"> Configured and Deployed By OKECHUKWU CHISOM through JENKINS PIPELINE</p>
   </div>
 </body>
